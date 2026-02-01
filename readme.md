@@ -1,0 +1,1 @@
+Trying to build a developer code base helper with C# microservices architecture and a hybrid RAG.
