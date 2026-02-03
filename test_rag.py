@@ -15,7 +15,7 @@ def main():
     print(f"   Duration: {stats['duration_seconds']}s")
     
     # Ask a question
-    question = "What does the add function do?"
+    question = "What does the subtract function do?"
     print(f"\n❓ Asking: {question}")
     
     response = engine.ask_question(question)
