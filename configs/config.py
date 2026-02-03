@@ -14,7 +14,7 @@ class Config:
     
     # LLM: Using Ollama 
     OLLAMA_BASE_URL = "http://localhost:11434"
-    OLLAMA_MODEL = "mistral"  # You can switch to "llama3", "codellama", "deepseek-coder" etc.
+    OLLAMA_MODEL = "phi"  # You can switch to "llama3", "codellama", "deepseek-coder" etc.
     LLM_TEMPERATURE = 0.1
     
     CHUNK_SIZE = 1000
